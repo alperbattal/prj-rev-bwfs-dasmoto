@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	font-family: Helvetica, sans-serif;
+}
+
+h1{
+	font-size: 100px;
+	text-align: center;
+	font-weight: bold;
+	color: khaki;
+	background-image:url("../images/pattern.jpeg");
+}
+
+.title{
+	font-size: 32px;
+	color: white;
+	font-weight: bold;
+}
+
+#title_color_brush{
+	background-color: mediumspringgreen;
+}
+
+#title_color_frame{
+	background-color: lightcoral;
+}
+
+#title_color_paint{
+	background-color: skyblue;
+}
+	
+.blue{
+	font-weight: bold;
+	color: blue;
+}
